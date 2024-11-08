@@ -28,25 +28,23 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div>Edge2Analysis<div class="badge"></div><img src='images/JBHI_Cover.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>Edge2Analysis<div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection]
+  
+[Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
 **Chen J**, Jiang M, Zhang X, et al.
-[2] Chen J, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. (JCR Q1, IF=7.0, Cover paper)
-[3] Chen J, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
-[4] Zhan Z+, Chen J+ (co-first author), Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
-[5] Chen J, Wu W, Hong S. Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG[C]//Artificial Intelligence and Data Science for Healthcare: Bridging Data-Centric AI and People-Centric Healthcare. 2024.(KDD Workshop)
+  
+[Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection](https://ieeexplore.ieee.org/document/9769989)
+**Chen J**, Zheng Y, Liang Y, et al.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
+**Chen J**, Zhang X, Xu L, et al.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction](https://www.sciencedirect.com/science/article/pii/S174680942400435X)
+Zhan Z+, **Chen J+** (co-first author), Li K, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:40KXmRMAAAAJ'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG](https://arxiv.org/abs/2407.11481)
+**Chen J**, Wu W, Hong S. 
 
 # 🎖 Honors and Awards
 - *2024.07* | Outstanding Graduate, Sun Yat-sen University
