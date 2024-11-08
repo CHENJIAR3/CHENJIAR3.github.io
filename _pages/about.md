@@ -64,18 +64,60 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 
 # 🎖 Honors and Awards
-- *2024.07* | Outstanding Graduate, Sun Yat-sen University
-- *2023.10* | National Scholarship
-- *2023.09* | First-Class Scholarship for Outstanding Students, Sun Yat-sen University
-- *2023.07* | Third Prize, 8th National Biomedical Engineering Innovation Design Competition
-- *2022.09* | National Scholarship
-- *2022.09* | Samsung Scholarship
-- *2022.09* | First-Class Scholarship for Outstanding Students, Sun Yat-sen University
-- *2022.05* | Third Prize, 1st Guangdong Provincial Biomedical Engineering Innovation Design Competition
-- *2021.09* | Guangda Scholarship for Sun Yat-sen University
-- *2021.09* | First-Class Scholarship for Outstanding Students, Sun Yat-sen University
-- *2020.12* | First-Class Scholarship for Outstanding Students (Undergraduate), Sun Yat-sen University
-- *2019.11* | First Prize, 11th National College Mathematics Competition (Non-Mathematics Category)
+<table border="1">
+  <tr>
+    <th>Date</th>
+    <th>Award</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2024.07</td>
+    <td style="text-align: left;">Outstanding Graduate, Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2023.10</td>
+    <td style="text-align: left;">National Scholarship</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2023.09</td>
+    <td style="text-align: left;">First-Class Scholarship for Outstanding Students, Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2023.07</td>
+    <td style="text-align: left;">Third Prize, 8th National Biomedical Engineering Innovation Design Competition</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2022.09</td>
+    <td style="text-align: left;">National Scholarship</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2022.09</td>
+    <td style="text-align: left;">Samsung Scholarship</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2022.09</td>
+    <td style="text-align: left;">First-Class Scholarship for Outstanding Students, Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2022.05</td>
+    <td style="text-align: left;">Third Prize, 1st Guangdong Provincial Biomedical Engineering Innovation Design Competition</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2021.09</td>
+    <td style="text-align: left;">Guangda Scholarship for Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2021.09</td>
+    <td style="text-align: left;">First-Class Scholarship for Outstanding Students, Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2020.12</td>
+    <td style="text-align: left;">First-Class Scholarship for Outstanding Students (Undergraduate), Sun Yat-sen University</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2019.11</td>
+    <td style="text-align: left;">First Prize, 11th National College Mathematics Competition (Non-Mathematics Category)</td>
+  </tr>
+</table>
 
 # 📖 Educations
 - *2024.09 - now*, School of Electronic Information and Electrical Engineering,  Shanghai Jiao Tong University(Advisor: Prof Guoxing Wang)
