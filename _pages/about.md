@@ -62,8 +62,6 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 </div>
 
 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2024.07* | Outstanding Graduate, Sun Yat-sen University
