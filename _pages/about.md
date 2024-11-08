@@ -26,7 +26,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
