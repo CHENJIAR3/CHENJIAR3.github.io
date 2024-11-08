@@ -45,6 +45,9 @@ Zhan Z+, **Chen J+** (co-first author), Li K, et al.
 
 [Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG](https://arxiv.org/abs/2407.11481)
 **Chen J**, Wu W, Hong S. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=40KXmRMAAAAJ) <strong><span class='show_paper_citations' data='40KXmRMAAAAJ'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.07* | Outstanding Graduate, Sun Yat-sen University
