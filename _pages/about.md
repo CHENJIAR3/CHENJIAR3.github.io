@@ -41,6 +41,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ASOC.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>**Cloud-edge collaborative computing**</strong>
+<br>
 [3] **Chen J**, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
 [[Online]](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
 
