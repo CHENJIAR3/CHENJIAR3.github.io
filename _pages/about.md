@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# ⏩ About me
 My name is Jiarong Chen. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several journals, including IEEE IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing. I am a peer-reviewer for some journals, like Biomedical Signal Processing and Control, Information Sciences, Enginnering Application of Artificial Intelligence.
 
 # 🔥 News
