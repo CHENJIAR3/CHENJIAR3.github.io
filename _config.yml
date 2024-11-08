@@ -23,21 +23,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiarong Chen"
   avatar           : "images/myinfo.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=40KXmRMAAAAJ"
-  email            : "jiarong.chen@sjtu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Jiarong-Chen-11?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  email            : jiarong.chen@sjtu.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Jiarong-Chen-11?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "https://github.com/CHENJIAR3"
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/CHENJIAR3"
   google_plus      :
   keybase          :
   instagram        :
