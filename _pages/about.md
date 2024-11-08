@@ -28,7 +28,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div>Edge2Analysis<div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>Edge2Analysis<div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
@@ -36,6 +36,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
   
 [Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection](https://ieeexplore.ieee.org/document/9769989)
 **Chen J**, Zheng Y, Liang Y, et al.
+(https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=40KXmRMAAAAJ&citation_for_view=40KXmRMAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='40KXmRMAAAAJ'></span></strong>
 
 [Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
 **Chen J**, Zhang X, Xu L, et al.
@@ -45,7 +46,7 @@ Zhan Z+, **Chen J+** (co-first author), Li K, et al.
 
 [Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG](https://arxiv.org/abs/2407.11481)
 **Chen J**, Wu W, Hong S. 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=40KXmRMAAAAJ) <strong><span class='show_paper_citations' data='40KXmRMAAAAJ'></span></strong>
+
 </div>
 </div>
 
