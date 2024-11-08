@@ -67,7 +67,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <table border="1">
   <tr>
     <th>Date</th>
-    <th>Award</th>
+    <th>Achievement</th>
   </tr>
   <tr>
     <td style="text-align: left;">2024.07</td>
