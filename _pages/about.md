@@ -18,23 +18,29 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 My name is Jiarong Chen. I studied at the School of Biomedical Engineering at Sun Yat-sen University from 2017 to 2021, where I obtained my bachelor's degree. From 2021 to 2024, I pursued my master's degree at the same institution, under the guidance of Dr. Wu Wanqing. Since 2024, I have embarked on my doctoral journey at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, under the mentorship of Professor Wang Guoxing. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several journals, including IEEE IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing.
 
-<a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'>google scholar citations <strong><span id='total_cit'>38</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted as poster in AIDSH.
+- *2024.04*: &nbsp;🎉🎉 <strong>Conditional generative adversarial network driven variable-duration single-lead to 12-lead electrocardiogram reconstruction </strong> is accepted by BSPC.
+- *2024.02*: &nbsp;🎉🎉 <strong>Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring</strong> is accepted by ASoC.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[1] Chen J, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
+[2] Chen J, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. (JCR Q1, IF=7.0, Cover paper)
+[3] Chen J, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
+[4] Zhan Z+, Chen J+ (co-first author), Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
+[5] Chen J, Wu W, Hong S. Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG[C]//Artificial Intelligence and Data Science for Healthcare: Bridging Data-Centric AI and People-Centric Healthcare. 2024.(KDD Workshop)
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:40KXmRMAAAAJ'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
