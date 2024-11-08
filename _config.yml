@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiarong Chen(陈佳荣)"
+  chinese name     : "陈佳荣"
+  name             : "Jiarong Chen"
   avatar           : "images/myinfo.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
