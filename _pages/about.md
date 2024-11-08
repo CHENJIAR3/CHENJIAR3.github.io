@@ -99,11 +99,11 @@ My name is Jiarong Chen. Currently, my research interests include generative art
   </tr>
   <tr>
     <td style="text-align: left;">2022.05</td>
-    <td style="text-align: left;">Third Prize, 1st Guangdong Provincial Biomedical Engineering Innovation Design Competition</td>
+    <td style="text-align: left;">Third Prize in 1st Guangdong Provincial Biomedical Engineering Innovation Design Competition</td>
   </tr>
   <tr>
     <td style="text-align: left;">2021.09</td>
-    <td style="text-align: left;">Guangda Scholarship for Sun Yat-sen University</td>
+    <td style="text-align: left;">Guangda Scholarship in Sun Yat-sen University</td>
   </tr>
   <tr>
     <td style="text-align: left;">2021.09</td>
