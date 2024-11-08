@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Jiarong Chen. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several journals, including IEEE IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing.
+My name is Jiarong Chen. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several journals, including IEEE IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing. I am a peer-reviewer for some journals, like Biomedical Signal Processing and Control, Information Sciences, Enginnering Application of Artificial Intelligence.
 
 <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -28,9 +28,10 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>Edge2Analysis<div class="badge"></div><img src='images/JBHI_Cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[1] Chen J, Jiang M, Zhang X, et al. [J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
+[Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection]
+**Chen J**, Jiang M, Zhang X, et al.
 [2] Chen J, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. (JCR Q1, IF=7.0, Cover paper)
 [3] Chen J, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
 [4] Zhan Z+, Chen J+ (co-first author), Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
