@@ -29,13 +29,15 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
+--Edge computing for AF detection
+[1] **Chen J**, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
+[html](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
+[2] **Chen J**, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. 
+[html](https://ieeexplore.ieee.org/document/9769989)
   
-[Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
-**Chen J**, Jiang M, Zhang X, et al.
-  
-[Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection](https://ieeexplore.ieee.org/document/9769989)
 **Chen J**, Zheng Y, Liang Y, et al.
-<span class='show_paper_citations' data='40KXmRMAAAAJ:u5HHmVD_uO8C'></span>
+</div>
+</div>
 
 [Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
 **Chen J**, Zhang X, Xu L, et al.
