@@ -28,9 +28,9 @@ My name is Jiarong Chen. I studied at the School of Biomedical Engineering at Su
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[1] Chen J, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
+[1] Chen J, Jiang M, Zhang X, et al. [J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
 [2] Chen J, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. (JCR Q1, IF=7.0, Cover paper)
 [3] Chen J, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
 [4] Zhan Z+, Chen J+ (co-first author), Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
