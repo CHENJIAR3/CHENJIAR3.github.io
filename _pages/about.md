@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # ⏩ About me
 My name is Jiarong Chen. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several international journals, including IEEE IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing. I am a peer-reviewer for some journals, like Biomedical Signal Processing and Control, Information Sciences, Enginnering Application of Artificial Intelligence. 
-<a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/CHENJIAR3/CHENJIAR3.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+-<a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/CHENJIAR3/CHENJIAR3.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted as poster in AIDSH.
