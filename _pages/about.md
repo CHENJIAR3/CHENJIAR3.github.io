@@ -27,11 +27,12 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/JBHI_cover.png' alt="sym" style="width: 100px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
---Edge computing for AF detection
+<br>**Edge computing for AF detection**</br>
 [1] **Chen J**, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
 [html](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
+<p></p>
 [2] **Chen J**, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. 
 [html](https://ieeexplore.ieee.org/document/9769989)
   
