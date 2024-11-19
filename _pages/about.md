@@ -21,7 +21,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted by npj digital medicine.
+- *2024.11*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted by npj Cardiovascular Health.
 - *2024.06*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted as poster in conference AIDSH.
 - *2024.04*: &nbsp;🎉🎉 <strong>Conditional generative adversarial network driven variable-duration single-lead to 12-lead electrocardiogram reconstruction </strong> is accepted by BSPC.
 - *2024.02*: &nbsp;🎉🎉 <strong>Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring</strong> is accepted by ASoC.
