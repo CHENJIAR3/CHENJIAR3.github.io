@@ -57,8 +57,8 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [[Online]](https://www.sciencedirect.com/science/article/pii/S174680942400435X)
 [[Code]](https://github.com/Zehui-Zhan/12-lead-reconstruction)
 <p></p>
-[5] **Chen J**, Wu W, Hong S. Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG[C]//Artificial Intelligence and Data Science for Healthcare: Bridging Data-Centric AI and People-Centric Healthcare. 2024.(KDD Workshop)
-[[Online]](https://arxiv.org/abs/2407.11481)
+[5] **Chen J**, Wu W, Liu T, et al. Multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ECG from arbitrary single-lead ECG[J]. npj Cardiovascular Health, 2024, 1(1): 1-13.
+[[Online]](https://www.nature.com/articles/s44325-024-00036-4)
 [[Code]](https://github.com/CHENJIAR3/MCMA)
 </div>
 </div>
