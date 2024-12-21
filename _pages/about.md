@@ -127,5 +127,5 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 - *2017.09 - 2021.06*, School of Biomedical Engineering, Sun Yat-sen University 
 
 # 💻 Internships
-- *2023.11 - 2024.04*, Peking University, Beijing, China.
 - *2024.07 - 2024.09*, RingConn, ShenZhen, China.
+- *2023.11 - 2024.04*, Peking University, Beijing, China.
