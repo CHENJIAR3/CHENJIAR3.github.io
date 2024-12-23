@@ -38,6 +38,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <p></p>
 [2] **Chen J**, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. 
 [[Online]](https://ieeexplore.ieee.org/document/9769989)
+<p></p>
 [3] **Chen J**, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
 [[Online]](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
 
@@ -54,6 +55,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [5] **Chen J**, Wu W, Liu T, et al. Multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ECG from arbitrary single-lead ECG[J]. npj Cardiovascular Health, 2024, 1(1): 1-13.
 [[Online]](https://www.nature.com/articles/s44325-024-00036-4)
 [[Code]](https://github.com/CHENJIAR3/MCMA)
+<p></p>
 [6] Huang L,**Chen J**, Zhang X, et al. Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance.
 [[Code]](https://github.com/CHENJIAR3/ECG_Denoising/tree/Linfei)
 </div>
