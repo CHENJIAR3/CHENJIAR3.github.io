@@ -31,7 +31,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ASOC.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong>**ECG Classification & Arrhythmia Detection**</strong>
+<strong>**ECG Classification**</strong>
 <br>
 [1] **Chen J**, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
 [[Online]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
@@ -46,7 +46,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GECG.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong>**ECG Reconstruction & ECG Denoising**</strong>
+<strong>**ECG Reconstruction**</strong>
 <br>
 [4] Zhan Z+, **Chen J+ (co-first author)**, Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
 [[Online]](https://www.sciencedirect.com/science/article/pii/S174680942400435X)
