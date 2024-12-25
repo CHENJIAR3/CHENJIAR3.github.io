@@ -44,7 +44,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GECG.png' alt="sym" style="width: 500px; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/12lead_ECG_reconstruction.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>**ECG Reconstruction**</strong>
 <br>
