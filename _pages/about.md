@@ -56,7 +56,8 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [[Online]](https://www.nature.com/articles/s44325-024-00036-4)
 [[Code]](https://github.com/CHENJIAR3/MCMA)
 <p></p>
-[6] Huang L,**Chen J**, Zhang X, et al. Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance.
+[6] Huang L,**Chen J**, Zhang X, et al. Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance[J]. IEEE Transactions on Instrumentation and Measurement, 2024: 1-1. DOI:10.1109/TIM.2024.3522425
+[[Online]](https://ieeexplore.ieee.org/document/10815987)
 [[Code]](https://github.com/CHENJIAR3/ECG_Denoising/tree/Linfei)
 </div>
 </div>
