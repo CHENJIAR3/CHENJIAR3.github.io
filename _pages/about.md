@@ -65,7 +65,10 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig1_v2.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>** Pediatric Healthcare**</strong>
+<br>
 [7] Chen J, Xia S, Shi W, et al. Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis[J]. IEEE Journal of Biomedical and Health Informatics, 2025.
+[[Online]](https://ieeexplore.ieee.org/document/11145800)
+[[Code]](https://github.com/CHENJIAR3/delirium_classification)
 </div>
 
 # 🎖 Honors and Awards
