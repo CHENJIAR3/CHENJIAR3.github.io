@@ -70,6 +70,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [[Online]](https://ieeexplore.ieee.org/document/11145800)
 [[Code]](https://github.com/CHENJIAR3/delirium_classification)
 </div>
+</div>
 
 # 🎖 Honors and Awards
 <table border="1">
