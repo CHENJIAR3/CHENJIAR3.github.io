@@ -72,7 +72,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig1_v2.png' alt="sym" style="width: 500px; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ring_bp.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>**Ring based Health**</strong>
 <br>
