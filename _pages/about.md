@@ -89,6 +89,8 @@ My name is Jiarong Chen. Currently, my research interests include generative art
     <th>Date</th>
     <th>Achievement</th>
   </tr>
+      <td style="text-align: left;">2025.11</td>
+    <td style="text-align: left;">Awarded Excellent Paper in the PhD Student Academic Forum of Fudan University</td>
   <tr>
     <td style="text-align: left;">2024.07</td>
     <td style="text-align: left;">Outstanding Graduate, Sun Yat-sen University</td>
