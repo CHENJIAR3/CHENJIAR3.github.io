@@ -66,12 +66,22 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <div class='paper-box-text' markdown="1">
 <strong>**Pediatric Healthcare**</strong>
 <br>
-[7] Chen J, Xia S, Shi W, et al. Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis[J]. IEEE Journal of Biomedical and Health Informatics, 2025.
+[7] **Chen J**, Xia S, Shi W, et al. Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis[J]. IEEE Journal of Biomedical and Health Informatics, 2025.
 [[Online]](https://ieeexplore.ieee.org/document/11145800)
 [[Code]](https://github.com/CHENJIAR3/delirium_classification)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig1_v2.png' alt="sym" style="width: 500px; height: auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong>**Ring based Health**</strong>
+<br>
+  [8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
+  [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
+  [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5.
+  [[Online](https://ieeexplore.ieee.org/abstract/document/11173101)
+  </div>
+</div>
 # 🎖 Honors and Awards
 <table border="1">
   <tr>
