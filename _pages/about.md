@@ -75,7 +75,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ring_bp.png' alt="sym" style="width: 500px; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong>**Ring based Health**</strong>
+<strong>**PPG-based Digital Health**</strong>
 <br>
   [8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
   [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
