@@ -21,7 +21,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 <strong>A Smart Ring for Long-Term Blood Pressure Monitoring </strong> has been accepted for Lecture presentation at the 2026 IEEE International Symposium on Circuits and Systems.
+- *2026.01*: &nbsp;🎉🎉 <strong>A Smart Ring for Long-Term Blood Pressure Monitoring </strong> has been accepted for Lecture presentation at the 2026 IEEE International Symposium on Circuits and Systems. (Date of Conference: 24-28 May 2026)
 - *2025.08*: &nbsp;🎉🎉 <strong>Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis </strong> is accepted by IEEE Journal of Biomedical and Health Informatics.
 - *2024.11*: &nbsp;🎉🎉 <strong>Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance</strong> is accepted by IEEE TIM.
 - *2024.11*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted by npj Cardiovascular Health.
@@ -82,6 +82,8 @@ My name is Jiarong Chen. Currently, my research interests include generative art
   <p></p>
   [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5.
   [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
+  [10] **Chen J**, Wang M, Liu B, Chen C and  Wang G, "A Smart Ring for Long-term Blood Pressure Monitoring," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
+
   </div>
 </div>
 # 🎖 Honors and Awards
