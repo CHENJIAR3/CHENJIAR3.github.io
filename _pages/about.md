@@ -80,8 +80,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
   [8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
   [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
   <p></p>
-  [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5.
-  [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
+  [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5. [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
 <p></p>
   [10] **Chen J**, Wang M, Liu B, Chen C and  Wang G, "A Smart Ring for Long-term Blood Pressure Monitoring," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
 
