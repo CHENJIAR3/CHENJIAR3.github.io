@@ -30,7 +30,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 - *2024.11*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted by npj Cardiovascular Health.
 - *2024.04*: &nbsp;🎉🎉 <strong>Conditional generative adversarial network driven variable-duration single-lead to 12-lead electrocardiogram reconstruction </strong> is accepted by Biomedical Signal Processing and Control.
 - *2024.02*: &nbsp;🎉🎉 <strong>Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring</strong> is accepted by Applied Soft Computing.
-- *2023.04*: &nbsp;🎉🎉 <strong>mplementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection </strong> is accepted by Expert Systems with Applications.
+- *2023.04*: &nbsp;🎉🎉 <strong>Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection </strong> is accepted by Expert Systems with Applications.
 - *2022.05*: &nbsp;🎉🎉 <strong>Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection</strong> is accepted by  IEEE Journal of Biomedical and Health Informatics.
 
 # 📝 Publications 
