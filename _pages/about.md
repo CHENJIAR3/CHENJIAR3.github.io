@@ -21,9 +21,9 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 <strong>Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification</strong> is accepted by Advanced Science.
-- *2025.07*: &nbsp;🎉🎉 <strong>A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring</strong> is accepted by Scientific Data.
-- *2025.07*: &nbsp;🎉🎉 <strong>Large-scale bilateral cardiovascular monitoring via wearable rings</strong> is accepted by npj Digitial Medicine.
+- *2026.07*: &nbsp;🎉🎉 <strong>Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification</strong> is accepted by Advanced Science.
+- *2026.07*: &nbsp;🎉🎉 <strong>A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring</strong> is accepted by Scientific Data.
+- *2026.07*: &nbsp;🎉🎉 <strong>Large-scale bilateral cardiovascular monitoring via wearable rings</strong> is accepted by npj Digitial Medicine.
 - *2026.01*: &nbsp;🎉🎉 <strong>A Smart Ring for Long-Term Blood Pressure Monitoring </strong> has been accepted for Lecture presentation at the 2026 IEEE International Symposium on Circuits and Systems. (Date of Conference: 24-28 May 2026)
 - *2025.08*: &nbsp;🎉🎉 <strong>Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis </strong> is accepted by IEEE Journal of Biomedical and Health Informatics.
 - *2024.11*: &nbsp;🎉🎉 <strong>Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance</strong> is accepted by EEE Transactions on Instrumentation and Measurement.
