@@ -67,7 +67,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [7] **Chen J**, Xia S, Shi W, et al. Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis[J]. IEEE Journal of Biomedical and Health Informatics, 2025.
 [[Online]](https://ieeexplore.ieee.org/document/11145800)
 [[Code]](https://github.com/CHENJIAR3/delirium_classification)
-  <p></p>
+<p></p>
 
 [8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
   [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
@@ -75,30 +75,26 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 
 [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5. [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
 <p></p>
-</div>
-</div>
+
 
 
 <strong>**2026**</strong>
 <br>
-  [10] **Chen J**, Wang M, Liu B, Chen C and  Wang G. A Smart Ring for Long-term Blood Pressure Monitoring, 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
+[10] **Chen J**, Wang M, Liu B, Chen C and  Wang G. A Smart Ring for Long-term Blood Pressure Monitoring, 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
   <p></p>
   
-  [11] **Chen J**, Liu B,  Shi W, Wang M, Gao R, Wang G, and Chen C. Large-scale bilateral cardiovascular monitoring via wearable rings[J]. npj Digital Medicine, 2026. doi: 10.1038/s41746-026-03036-z.  [[Online]](https://www.nature.com/articles/s41746-026-03036-z)
+[11] **Chen J**, Liu B,  Shi W, Wang M, Gao R, Wang G, and Chen C. Large-scale bilateral cardiovascular monitoring via wearable rings[J]. npj Digital Medicine, 2026. doi: 10.1038/s41746-026-03036-z.  [[Online]](https://www.nature.com/articles/s41746-026-03036-z)
   [[Code]] (https://github.com/CHENJIAR3/BiPPG)
   <p></p>
   
-  [12] **Chen J**, Li R, Liu B, et al. A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring[J]. Scientific Data, 2026.doi: 10.1038/s41746-026-03036-z. [[Online]](https://www.nature.com/articles/s41597-026-07915-8)
+[12] **Chen J**, Li R, Liu B, et al. A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring[J]. Scientific Data, 2026.doi: 10.1038/s41746-026-03036-z. [[Online]](https://www.nature.com/articles/s41597-026-07915-8)
   [[Code]](https://github.com/CHENJIAR3/MAIBO)
   <p></p>
   
-   [13] Shi W, Mi L, **Chen J**, et al.Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification.Advanced Science (2026): e76775. doi: 10.1002/advs.76775 [[Online]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76775)
+[13] Shi W, Mi L, **Chen J**, et al.Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification.Advanced Science (2026): e76775. doi: 10.1002/advs.76775 [[Online]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76775)
   [[Code]](https://github.com/CHENJIAR3/neonatal_monitoring)
-    <p></p>
 
-    
-  </div>
-</div>
+
 # 🎖 Honors and Awards
 <table border="1">
   <tr>
