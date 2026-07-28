@@ -84,7 +84,7 @@ My name is Jiarong Chen. Currently, my research interests include generative art
   <p></p>
   
 [11] **Chen J**, Liu B,  Shi W, Wang M, Gao R, Wang G, and Chen C. Large-scale bilateral cardiovascular monitoring via wearable rings[J]. npj Digital Medicine, 2026. doi: 10.1038/s41746-026-03036-z.  [[Online]](https://www.nature.com/articles/s41746-026-03036-z)
-  [[Code]] (https://github.com/CHENJIAR3/BiPPG)
+  [[Code]](https://github.com/CHENJIAR3/BiPPG)
   <p></p>
   
 [12] **Chen J**, Li R, Liu B, et al. A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring[J]. Scientific Data, 2026.doi: 10.1038/s41746-026-03036-z. [[Online]](https://www.nature.com/articles/s41597-026-07915-8)
