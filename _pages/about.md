@@ -33,7 +33,6 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 - *2023.04*: &nbsp;🎉🎉 <strong>Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection </strong> is accepted by Expert Systems with Applications.
 - *2022.05*: &nbsp;🎉🎉 <strong>Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection</strong> is accepted by  IEEE Journal of Biomedical and Health Informatics.
 
-# 📝 Publications 
 # 📝 Publications
 
 <span style="font-size: 0.95em;">
