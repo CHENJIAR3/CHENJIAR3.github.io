@@ -100,7 +100,7 @@ Wang M, Shi W, Zhang J, **Chen J**, et al.
 *IEEE Journal of Biomedical and Health Informatics*, 2025.  
 [Paper](https://ieeexplore.ieee.org/document/11145800) ·
 [Code](https://github.com/CHENJIAR3/delirium_classification)
-
+[DOI](10.1109/JBHI.2025.3604448)
 
 ## 2024
 
