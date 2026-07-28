@@ -34,26 +34,20 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 - *2022.05*: &nbsp;🎉🎉 <strong>Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection</strong> is accepted by  IEEE Journal of Biomedical and Health Informatics.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ASOC.png' alt="sym" style="width: 500px; height: auto;"></div></div>
-<div class='paper-box-text' markdown="1">
-<strong>**ECG Classification**</strong>
+<strong>**2022-2023**</strong>
 <br>
 [1] **Chen J**, Zheng Y, Liang Y, et al. Edge2Analysis: a novel AIoT platform for atrial fibrillation recognition and detection[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(12): 5772-5782. 
 [[Online]](https://ieeexplore.ieee.org/document/9769989) 
 <p></p>
 [2] **Chen J**, Jiang M, Zhang X, et al. Implementing ultra-lightweight co-inference model in ubiquitous edge device for atrial fibrillation detection[J]. Expert Systems with Applications, 2023, 216: 119407. (JCR Q1, IF=8.6)
 [[Online]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422024265)
+
+
+<strong>**2024**</strong>
+<br>
 <p></p>
 [3] **Chen J**, Zhang X, Xu L, et al. Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring[J]. Applied Soft Computing, 2024: 111402. (JCR Q1, IF=8.7)
 [[Online]](https://www.sciencedirect.com/science/article/pii/S1568494624001765)
-
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/12lead_ECG_reconstruction.png' alt="sym" style="width: 500px; height: auto;"></div></div>
-<div class='paper-box-text' markdown="1">
-<strong>**ECG Reconstruction**</strong>
-<br>
 [4] Zhan Z+, **Chen J+ (co-first author)**, Li K, et al. Conditional Generative Adversarial Network Driven Variable-Duration Single-Lead to 12-Lead Electrocardiogram Reconstruction[J]. Biomedical Signal Processing and Control, 2024, 95: 106377. (JCR Q1, IF=5.1)
 [[Online]](https://www.sciencedirect.com/science/article/pii/S174680942400435X)
 [[Code]](https://github.com/Zehui-Zhan/12-lead-reconstruction)
@@ -65,29 +59,30 @@ My name is Jiarong Chen. Currently, my research interests include generative art
 [6] Huang L,**Chen J**, Zhang X, et al. Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance[J]. IEEE Transactions on Instrumentation and Measurement, 2024: 1-1. DOI:10.1109/TIM.2024.3522425
 [[Online]](https://ieeexplore.ieee.org/document/10815987)
 [[Code]](https://github.com/CHENJIAR3/ECG_Denoising/tree/Linfei)
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig1_v2.png' alt="sym" style="width: 500px; height: auto;"></div></div>
-<div class='paper-box-text' markdown="1">
-<strong>**Pediatric Healthcare**</strong>
+
+
+<strong>**2025**</strong>
 <br>
 [7] **Chen J**, Xia S, Shi W, et al. Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis[J]. IEEE Journal of Biomedical and Health Informatics, 2025.
 [[Online]](https://ieeexplore.ieee.org/document/11145800)
 [[Code]](https://github.com/CHENJIAR3/delirium_classification)
+  <p></p>
+[8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
+  [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
+  <p></p>
+[9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5. [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
+<p></p>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ring_bp.png' alt="sym" style="width: 500px; height: auto;"></div></div>
-<div class='paper-box-text' markdown="1">
-<strong>**PPG-based Digital Health**</strong>
+
+<strong>**2026**</strong>
 <br>
-  [8] Wang M, Shi W, Zhang J, **Chen J**, et al. Development of a Rotation-Robust PPG Sensor for a Smart Ring[J]. Sensors, 2025, 25(20): 6326.
-  [[Online]](https://www.mdpi.com/1424-8220/25/20/6326)
+  [10] **Chen J**, Wang M, Liu B, Chen C and  Wang G. A Smart Ring for Long-term Blood Pressure Monitoring, 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
   <p></p>
-  [9] Liu B, Wu H, Wang G, **Chen J**, et al. Ring-BP: Using a Wearable Smart Ring to Cufflessly Estimate Blood Pressure with Mobile and Efficient Net[C]//2025 IEEE 7th International Conference on Artificial Intelligence Circuits and Systems (AICAS). IEEE, 2025: 1-5. [[Online]](https://ieeexplore.ieee.org/abstract/document/11173101)
-<p></p>
-  [10] **Chen J**, Wang M, Liu B, Chen C and  Wang G, "A Smart Ring for Long-term Blood Pressure Monitoring," 2026 IEEE International Symposium on Circuits and Systems (ISCAS), Shanghai, China, 2026, pp. 3955-3959, doi: 10.1109/ISCAS66217.2026.11562072.  [[Online]](https://ieeexplore.ieee.org/abstract/document/11562072)
+  [11] **Chen J**, Liu B,  Shi W, Wang M, Gao R, Wang G, and Chen C. Large-scale bilateral cardiovascular monitoring via wearable rings[J]. npj Digital Medicine, 2026. doi: 10.1038/s41746-026-03036-z.  [[Online]](https://www.nature.com/articles/s41746-026-03036-z)[[Code]] (https://github.com/CHENJIAR3/BiPPG)
+    <p></p>
 
   </div>
 </div>
