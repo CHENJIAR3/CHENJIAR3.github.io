@@ -162,7 +162,7 @@ I have served as a peer reviewer for **100 reviews across 13 journals**, contrib
 ### Peer Review
 
 - *Biomedical Signal Processing and Control* 
-- *Engineering Applications of Artificial Intelligence**
+- *Engineering Applications of Artificial Intelligence*
 - *IEEE Journal of Biomedical and Health Informatics* 
 - *IEEE Sensors Letters* 
 - *IEEE Transactions on Consumer Electronics*
