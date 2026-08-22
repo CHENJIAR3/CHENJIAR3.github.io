@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # ⏩ About me
-My name is Jiarong Chen. Currently, my research interests include generative artificial intelligence, digital health, AI for healthcare, bio-signal processing (mainly ECG and PPG), and cardiovascular health. I have published my research findings in several international journals, including npj Digitial Medicine, Advanced Science, IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing, IEEE Transactions on Instrumentation and Measurement, and npj Cardiovascular Health. I am a peer-reviewer for some journals, including IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), IEEE Internet of Things Journal (IEEE IoTJ), Biomedical Signal Processing and Control (BSPC), Information Sciences, Enginnering Application of Artificial Intelligence (EAAI). Contact: jiarong.chen@sjtu.edu.cn
+My name is Jiarong Chen. I am currently a Ph.D. student at Shanghai Jiao Tong University, where I am pursuing my doctoral degree under the supervision of Prof. Guoxing Wang.  I received both my Bachelor's and Master's degrees in Biomedical Engineering from Sun Yat-sen University. I was twice awarded the National Scholarship and was also recognized as an Outstanding Graduate of Sun Yat-sen University. My research focuses on wearable sensing and AI for healthcare, with particular interests in cardiovascular monitoring, photoplethysmography (PPG), electrocardiography (ECG), cuffless blood pressure estimation, and multimodal physiological signal analysis. 
+I have published my research findings in several international journals, including npj Digitial Medicine, Advanced Science, IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing, IEEE Transactions on Instrumentation and Measurement, and npj Cardiovascular Health. Contact: jiarong.chen@sjtu.edu.cn
 <a href='https://scholar.google.com/citations?user=40KXmRMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
@@ -153,6 +154,30 @@ Zhan Z†, **Chen J†**, Li K, et al.
 *IEEE Journal of Biomedical and Health Informatics*, 2022, 26(12): 5772–5782.  
 [Paper](https://ieeexplore.ieee.org/document/9769989) ·
 [DOI](https://doi.org/10.1109/JBHI.2022.3172961)
+
+# 📝 Academic Service
+
+I have served as a peer reviewer for **100 manuscripts across 13 journals/publications**, contributing to the peer-review process in biomedical engineering, wearable sensing, artificial intelligence, and healthcare.
+
+### Peer Review
+
+- *Biomedical Signal Processing and Control* — **27 reviews**
+- *Engineering Applications of Artificial Intelligence* — **38 reviews**
+- *IEEE Journal of Biomedical and Health Informatics* — **10 reviews**
+- *IEEE Sensors Letters* — **6 reviews**
+- *IEEE Transactions on Consumer Electronics* — **6 reviews**
+- *IEEE Internet of Things Journal* — **3 reviews**
+- *Information Sciences* — **2 reviews**
+- *Microelectronics* — **2 reviews**
+- *Pattern Recognition* — **2 reviews**
+- *IEEE Transactions on Knowledge and Data Engineering* — **1 review**
+- *Intelligence-Based Medicine* — **1 review**
+- *International Journal of Cardiology* — **1 review**
+- *Neural Networks* — **1 review**
+
+**Total: 100 peer reviews across 13 journals/publications.**
+
+Verified peer-review records are available through [ORCID](https://orcid.org/0000-0002-7150-5239).
 
 # 🎖 Honors and Awards
 <table border="1">
