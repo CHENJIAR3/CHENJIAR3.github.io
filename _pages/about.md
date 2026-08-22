@@ -157,27 +157,28 @@ Zhan Z†, **Chen J†**, Li K, et al.
 
 # 📝 Academic Service
 
-I have served as a peer reviewer for **100 manuscripts across 13 journals/publications**, contributing to the peer-review process in biomedical engineering, wearable sensing, artificial intelligence, and healthcare.
+I have served as a peer reviewer for **100 manuscripts across 13 journals**, contributing to the peer-review process in biomedical engineering, wearable sensing, artificial intelligence, and healthcare.
 
 ### Peer Review
 
-- *Biomedical Signal Processing and Control* — **27 reviews**
-- *Engineering Applications of Artificial Intelligence* — **38 reviews**
-- *IEEE Journal of Biomedical and Health Informatics* — **10 reviews**
-- *IEEE Sensors Letters* — **6 reviews**
-- *IEEE Transactions on Consumer Electronics* — **6 reviews**
-- *IEEE Internet of Things Journal* — **3 reviews**
-- *Information Sciences* — **2 reviews**
-- *Microelectronics* — **2 reviews**
-- *Pattern Recognition* — **2 reviews**
-- *IEEE Transactions on Knowledge and Data Engineering* — **1 review**
-- *Intelligence-Based Medicine* — **1 review**
-- *International Journal of Cardiology* — **1 review**
-- *Neural Networks* — **1 review**
+- *Biomedical Signal Processing and Control* 
+- *Engineering Applications of Artificial Intelligence**
+- *IEEE Journal of Biomedical and Health Informatics* 
+- *IEEE Sensors Letters* 
+- *IEEE Transactions on Consumer Electronics*
+- *IEEE Internet of Things Journal* 
+- *Information Sciences* 
+- *Microelectronics* 
+- *Pattern Recognition* 
+- *IEEE Transactions on Knowledge and Data Engineering*
+- *Intelligence-Based Medicine* 
+- *International Journal of Cardiology* 
+- *Neural Networks*
 
-**Total: 100 peer reviews across 13 journals/publications.**
-
-Verified peer-review records are available through [ORCID](https://orcid.org/0000-0002-7150-5239).
+### Conference
+- *IEEE BIOCAS 2026*
+- *IEEE BIOCAS 2025*
+ 
 
 # 🎖 Honors and Awards
 <table border="1">
