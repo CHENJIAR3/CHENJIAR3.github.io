@@ -157,25 +157,31 @@ Zhan Z†, **Chen J†**, Li K, et al.
 
 # 📝 Academic Service
 
-I have served as a peer reviewer for **100 reviews across 13 journals**, contributing to the peer-review process in biomedical engineering, wearable sensing, artificial intelligence, and healthcare.
+I have served as a peer reviewer for **10+ journals and conferences**, contributing to the peer-review process in biomedical engineering, wearable sensing, artificial intelligence, and healthcare.
 
-### Journal Review
+### Journal Peer Review
 
-- *Biomedical Signal Processing and Control* 
+- *Biomedical Signal Processing and Control*
 - *Engineering Applications of Artificial Intelligence*
-- *IEEE Journal of Biomedical and Health Informatics* 
-- *IEEE Sensors Letters* 
+- *IEEE Journal of Biomedical and Health Informatics*
+- *IEEE Sensors Letters*
 - *IEEE Transactions on Consumer Electronics*
-- *IEEE Internet of Things Journal* 
-- *Information Sciences* 
-- *Microelectronics* 
-- *Pattern Recognition* 
+- *IEEE Internet of Things Journal*
+- *Information Sciences*
+- *Microelectronics*
+- *Pattern Recognition*
 - *IEEE Transactions on Knowledge and Data Engineering*
-- *Intelligence-Based Medicine* 
-- *International Journal of Cardiology* 
+- *Intelligence-Based Medicine*
+- *International Journal of Cardiology*
 - *Neural Networks*
+- *Scientific Reports*
+- *Artificial Intelligence Review*
+- *BMC Medical Informatics and Decision Making*
+- *BMC Digital Health*
+- *Scientific Data*
+- *npj Systems Biology and Applications*
 
-### Conference Review
+### Conference Peer Review
 
 - *IEEE Biomedical Circuits and Systems Conference (BioCAS) 2026*
 - *IEEE Biomedical Circuits and Systems Conference (BioCAS) 2025*
