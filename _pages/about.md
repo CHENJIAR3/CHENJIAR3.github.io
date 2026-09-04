@@ -27,7 +27,7 @@ I have published my research findings in several international journals, includi
 - *2026.07*: &nbsp;🎉🎉 <strong>Large-scale bilateral cardiovascular monitoring via wearable rings</strong> is accepted by npj Digitial Medicine.
 - *2026.01*: &nbsp;🎉🎉 <strong>A Smart Ring for Long-Term Blood Pressure Monitoring </strong> has been accepted for Lecture presentation at the 2026 IEEE International Symposium on Circuits and Systems. (Date of Conference: 24-28 May 2026)
 - *2025.08*: &nbsp;🎉🎉 <strong>Automated Pediatric Delirium Recognition via Deep Learning-Powered Video Analysis </strong> is accepted by IEEE Journal of Biomedical and Health Informatics.
-- *2024.11*: &nbsp;🎉🎉 <strong>Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance</strong> is accepted by EEE Transactions on Instrumentation and Measurement.
+- *2024.11*: &nbsp;🎉🎉 <strong>Joint HW/SW Signal Co-conditioning Strategy for Unobtrusive Single-Arm Cardiac Surveillance</strong> is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2024.11*: &nbsp;🎉🎉 <strong>Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG</strong> is accepted by npj Cardiovascular Health.
 - *2024.04*: &nbsp;🎉🎉 <strong>Conditional generative adversarial network driven variable-duration single-lead to 12-lead electrocardiogram reconstruction </strong> is accepted by Biomedical Signal Processing and Control.
 - *2024.02*: &nbsp;🎉🎉 <strong>Implementing the confidence constraint cloud-edge collaborative computing strategy for ultra-efficient arrhythmia monitoring</strong> is accepted by Applied Soft Computing.
