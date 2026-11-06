@@ -35,8 +35,11 @@ Some examples:
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+    1. (Optional) Set `GOOGLE_SCHOLAR_ID` in `Settings -> Secrets -> Actions -> New repository secret`. The crawler ships with a default ID, so this is only needed for other profiles.
+    1. Enable the workflows in the `Actions` tab. `Get Citation Data` refreshes `_data/gs_data.json` daily at 08:00 UTC (16:00 China time), on demand, and when the crawler changes, then commits the result to `main`.
+    1. In `Settings -> Pages -> Build and deployment`, set **Source = GitHub Actions**. The included `Deploy Pages` workflow builds after source pushes and successful crawler runs. This is necessary because commits made with `GITHUB_TOKEN` do not trigger branch-based Pages builds.
+    1. Scholar can block cloud IPs. Configure the secret `GOOGLE_SCHOLAR_PROXY` for a working proxy, or `OPENALEX_API_KEY` for reliable [OpenAlex](https://openalex.org/settings/api) fallback quota. Anonymous OpenAlex requests share a limited IP budget. To display only Scholar counts, set the repository variable `CITATION_OPENALEX_FALLBACK=false`.
+    1. Counts and their source label are rendered from `_data/gs_data.json`, without runtime requests to raw GitHub or Shields.io. See [diagnosis, tests and deployment instructions](docs/CITATION-DATA-FIX.md).
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage

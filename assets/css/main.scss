@@ -107,3 +107,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Render citation counts locally so a blocked image service cannot hide them.
+.citation-badge {
+    display: inline-flex;
+    overflow: hidden;
+    border-radius: 3px;
+    vertical-align: middle;
+    color: #333;
+    font: 11px/20px Verdana, sans-serif;
+
+    .citation-badge-label { padding: 0 6px; background: #f6f6f6; }
+    .citation-badge-count { padding: 0 6px; background: #9cf; }
+}

@@ -1,3 +1,7 @@
-jsonpickle==4.0.5
+# Keep these pins: scholarly 1.7.11 still passes the `proxies=` argument that
+# httpx removed in 0.28, so upgrading httpx silently breaks every request.
 scholarly==1.7.11
 httpx==0.23.3
+# scholarly imports bibtexparser.bibdatabase, which was removed in version 2.
+bibtexparser==1.4.3
+jsonpickle==4.0.5

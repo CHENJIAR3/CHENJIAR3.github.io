@@ -38,7 +38,10 @@ AcadHomepage
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
-    1. 在github本仓库页面的`Action`中，点击*"I understand my workflows, go ahead and enable them"*启用workflows by clicking *"。本action将会谷歌学术引用的统计量数据`gs_data.json`到本仓库的`google-scholar-stats`分支中。每次修改main分支的内容会触发该action。本action也会在每天08:00 UTC定时触发。
+    1. 在 `Actions` 中启用工作流。`Get Citation Data` 在每天北京时间 16:00、手动触发以及修改爬虫时运行，把数据写入 `_data/gs_data.json` 并提交回 main 分支。
+    1. 在 `Settings → Pages → Build and deployment` 将 **Source 设为 GitHub Actions**。`Deploy Pages` 会在源码推送和爬虫成功后构建发布；仅由 `GITHUB_TOKEN` 提交 JSON 不会自动触发原来的分支式 Pages 构建。
+    1. Scholar 可能封锁云 IP。可以设置 Secret `GOOGLE_SCHOLAR_PROXY`，或设置 `OPENALEX_API_KEY` 以使用 OpenAlex 独立额度；匿名共享 IP 的额度可能耗尽。如果主页只允许 Scholar 数字，在仓库 Variables 中设置 `CITATION_OPENALEX_FALLBACK=false`。
+    1. 页面在构建时读取 `_data/gs_data.json`，徽章明确显示数据源，不依赖 raw GitHub 或 Shields.io。详见[诊断、测试与上线步骤](CITATION-DATA-FIX.md)。
 1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
 1. 修改主页配置文件[_config.yml](../_config.yml):
     1. `title`: 主页标题
@@ -47,7 +50,6 @@ AcadHomepage
     1. `google_analytics_id` (可选的): 谷歌Analytics ID
     1. SEO相关的键值 (可选的): 从搜索引擎的控制台里获得对应的ID (例如：Google, Bing and Baidu)，然后粘贴到这里。
     1. `author`: 主页作者信息，包括其他网页、Email、所在城市、大学等。
-    1. `google_scholar_stats_use_cdn`: 使用CDN读取存储于`https://raw.githubusercontent.com/`的google scholar引用统计数据，防止中国大陆地区被墙无法访问的情况。但是CDN有缓存，因此`google_scholar_stats_use_cdn : True`时，引用数据更新会有延迟。
     1. 更多的配置信息在注释中有详细描述。
 1. 将你的主页内容添加到 [_pages/about.md](../_pages/about.md).
 1. 你的主页将会被部署到`https://USERNAME.github.io`.

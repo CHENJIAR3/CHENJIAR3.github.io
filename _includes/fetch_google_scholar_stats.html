@@ -1,19 +1,38 @@
+{%- comment -%}
+  Citation numbers are rendered at build time from _data/gs_data.json.
+
+  The previous implementation fetched
+  raw.githubusercontent.com/<repo>/google-scholar-stats/gs_data.json at runtime.
+  That failed silently for visitors in mainland China (the host is blocked) and
+  stopped working entirely once the scheduled crawler broke.  Nothing is fetched
+  over the network any more, so the numbers always render.
+{%- endcomment -%}
+{% if site.data.gs_data %}
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
-        });
-    })
+  (function () {
+    var gsData = {{ site.data.gs_data | jsonify | replace: '</', '<\/' }};
+    function render() {
+      var total = document.getElementById('total_cit');
+      if (total && typeof gsData.citedby !== 'undefined') {
+        total.textContent = gsData.citedby;
+      }
+      var publications = gsData.publications || {};
+      var elements = document.getElementsByClassName('show_paper_citations');
+      Array.prototype.forEach.call(elements, function (element) {
+        var id = element.getAttribute('data');
+        var publication = publications[id];
+        if (publication && typeof publication.num_citations !== 'undefined') {
+          element.textContent = '| Citations: ' + publication.num_citations;
+          element.title = (publication.num_citations_source === 'openalex' || publication.source === 'OPENALEX')
+            ? 'OpenAlex citations' : 'Google Scholar citations';
+        }
+      });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', render);
+    } else {
+      render();
+    }
+  })();
 </script>
+{% endif %}
