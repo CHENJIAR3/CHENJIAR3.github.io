@@ -57,6 +57,8 @@ Hu M, **Chen J**, Wang G, Chen C.
 [Code](https://github.com/04-07-08/STAR-Beat)
 [DOI](https://doi.org/10.1109/ICSPCC70129.2026.11754457).
 
+---
+
 **[14] Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification**  
 Shi W, Mi L, **Chen J**, et al.  
 *Advanced Science*, 2026, e76775.  
