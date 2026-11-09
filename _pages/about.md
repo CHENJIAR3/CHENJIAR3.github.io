@@ -50,7 +50,14 @@ I have published my research findings in several international journals, includi
 
 ## 2026
 
-**[13] Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification**  
+**[15]STAR-Beat: A Spatio-Temporal Attention Recurrent Framework for Lightweight and Interpretable Atrial Fibrillation Detection Using Wearable Photoplethysmography**
+Hu M, **Chen J**, Wang G, Chen C.
+2026 IEEE 16th International Conference on Signal Processing, Communications and Computing (ICSPCC)
+[Paper](https://ieeexplore.ieee.org/abstract/document/11754457/)·
+[Code](https://github.com/04-07-08/STAR-Beat)
+[DOI](https://doi.org/10.1109/ICSPCC70129.2026.11754457).
+
+**[14] Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification**  
 Shi W, Mi L, **Chen J**, et al.  
 *Advanced Science*, 2026, e76775.  
 [Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76775) ·
@@ -59,7 +66,7 @@ Shi W, Mi L, **Chen J**, et al.
 
 ---
 
-**[12] A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring**  
+**[13] A Multi-posture Asymmetry-aware Intelligent Bilateral Observation Dataset for Cardiovascular Monitoring**  
 **Chen J**, Li R, Liu B, et al.  
 *Scientific Data*, 2026.  
 [Paper](https://www.nature.com/articles/s41597-026-07915-8) ·
@@ -68,7 +75,7 @@ Shi W, Mi L, **Chen J**, et al.
 
 ---
 
-**[11] Large-scale Bilateral Cardiovascular Monitoring via Wearable Rings**  
+**[12] Large-scale Bilateral Cardiovascular Monitoring via Wearable Rings**  
 **Chen J**, Liu B, Shi W, Wang M, Gao R, Wang G, Chen C.  
 *npj Digital Medicine*, 2026.  
 [Paper](https://www.nature.com/articles/s41746-026-03036-z) ·
@@ -77,6 +84,14 @@ Shi W, Mi L, **Chen J**, et al.
 
 ---
 
+**[11] SegmentDB: Evolving the Non-invasive Cuffless Blood Pressure Estimation into the Big Data Era**  
+ Liu B, Shi W, **Chen J**, et al.  
+*Health Data Science*, 2026.  
+[Paper](https://spj.science.org/doi/epdf/10.34133/hds.0511) ·
+[Code](https://github.com/MuskBinLiu/SegmentDB) ·
+[DOI](https://spj.science.org/doi/abs/10.34133/hds.0511)
+
+---
 **[10] A Smart Ring for Long-term Blood Pressure Monitoring**  
 **Chen J**, Wang M, Liu B, Chen C, Wang G.  
 In: *2026 IEEE International Symposium on Circuits and Systems (ISCAS)*,  
