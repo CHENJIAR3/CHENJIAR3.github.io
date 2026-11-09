@@ -52,9 +52,9 @@ I have published my research findings in several international journals, includi
 
 **[15]STAR-Beat: A Spatio-Temporal Attention Recurrent Framework for Lightweight and Interpretable Atrial Fibrillation Detection Using Wearable Photoplethysmography**
 Hu M, **Chen J**, Wang G, Chen C.
-2026 IEEE 16th International Conference on Signal Processing, Communications and Computing (ICSPCC)
+2026 IEEE 16th International Conference on Signal Processing, Communications and Computing (ICSPCC).
 [Paper](https://ieeexplore.ieee.org/abstract/document/11754457/)·
-[Code](https://github.com/04-07-08/STAR-Beat)
+[Code](https://github.com/04-07-08/STAR-Beat)·
 [DOI](https://doi.org/10.1109/ICSPCC70129.2026.11754457).
 
 ---
