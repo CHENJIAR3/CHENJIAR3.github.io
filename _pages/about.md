@@ -89,7 +89,7 @@ Shi W, Mi L, **Chen J**, et al.
 
 **[11] SegmentDB: Evolving the Non-invasive Cuffless Blood Pressure Estimation into the Big Data Era**  
  Liu B, Shi W, **Chen J**, et al.  
-*Health Data Science*, 2026.  
+*Health Data Science*, 2026, 9, Article number: 884.  
 [Paper](https://spj.science.org/doi/epdf/10.34133/hds.0511) ·
 [Code](https://github.com/MuskBinLiu/SegmentDB) ·
 [DOI](https://spj.science.org/doi/abs/10.34133/hds.0511)
