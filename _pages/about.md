@@ -80,7 +80,7 @@ Shi W, Mi L, **Chen J**, et al.
 
 **[12] Large-scale Bilateral Cardiovascular Monitoring via Wearable Rings**  
 **Chen J**, Liu B, Shi W, Wang M, Gao R, Wang G, Chen C.  
-*npj Digital Medicine*, 2026.  
+*npj Digital Medicine*, 2026, 9, Article number: 884.  
 [Paper](https://www.nature.com/articles/s41746-026-03036-z) ·
 [Code](https://github.com/CHENJIAR3/BiPPG) ·
 [DOI](https://doi.org/10.1038/s41746-026-03036-z)
@@ -89,7 +89,7 @@ Shi W, Mi L, **Chen J**, et al.
 
 **[11] SegmentDB: Evolving the Non-invasive Cuffless Blood Pressure Estimation into the Big Data Era**  
  Liu B, Shi W, **Chen J**, et al.  
-*Health Data Science*, 2026, 9, Article number: 884.  
+*Health Data Science*, 2026.  
 [Paper](https://spj.science.org/doi/epdf/10.34133/hds.0511) ·
 [Code](https://github.com/MuskBinLiu/SegmentDB) ·
 [DOI](https://spj.science.org/doi/abs/10.34133/hds.0511)
