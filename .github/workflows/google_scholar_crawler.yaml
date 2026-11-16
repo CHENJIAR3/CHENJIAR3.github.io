@@ -8,7 +8,7 @@ on:
         description: Citation data source
         type: choice
         options: [auto, scholar, openalex]
-        default: auto
+        default: scholar
   push:
     branches: [main]
     paths:
