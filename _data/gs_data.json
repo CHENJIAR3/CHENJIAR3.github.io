@@ -1,5 +1,7 @@
 {
   "container_type": "Author",
+  "source": "OPENALEX",
+  "citation_source": "openalex",
   "filled": [
     "basics",
     "publications",
@@ -7,11 +9,10 @@
     "counts"
   ],
   "scholar_id": "40KXmRMAAAAJ",
-  "source": "AUTHOR_PROFILE_PAGE",
-  "name": "Jiarong Chen",
-  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=40KXmRMAAAAJ&citpid=3",
+  "orcid": "0000-0002-7150-5239",
+  "name": "Jia‐Rong Chen",
   "affiliation": "Shanghai Jiao Tong University",
-  "organization": 11817969702535318711,
+  "homepage": "https://chenjiar3.github.io/",
   "interests": [
     "Digital Health",
     "AI for Healthcare",
@@ -19,9 +20,10 @@
     "Cardiovascular Health",
     "Wearable Systems"
   ],
-  "email_domain": "@sjtu.edu.cn",
-  "homepage": "https://chenjiar3.github.io/",
-  "citedby": 164,
+  "citedby": 289,
+  "hindex": 9,
+  "i10index": 8,
+  "works_count": 37,
   "publications": {
     "40KXmRMAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -33,12 +35,13 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 41,
+      "num_citations": 36,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12207803994258092743,4841201044580916214",
       "cites_id": [
         "12207803994258092743",
         "4841201044580916214"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:UebtZRa9Y70C": {
       "container_type": "Publication",
@@ -50,11 +53,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:UebtZRa9Y70C",
-      "num_citations": 33,
+      "num_citations": 30,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9350043175088355515",
       "cites_id": [
         "9350043175088355515"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:9yKSN-GCB0IC": {
       "container_type": "Publication",
@@ -66,11 +70,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:9yKSN-GCB0IC",
-      "num_citations": 28,
+      "num_citations": 23,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3709303803371351891",
       "cites_id": [
         "3709303803371351891"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:UeHWp8X0CEIC": {
       "container_type": "Publication",
@@ -82,11 +87,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:UeHWp8X0CEIC",
-      "num_citations": 23,
+      "num_citations": 18,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6686988275619830636",
       "cites_id": [
         "6686988275619830636"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:qjMakFHDy7sC": {
       "container_type": "Publication",
@@ -98,11 +104,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:qjMakFHDy7sC",
-      "num_citations": 16,
+      "num_citations": 14,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=907915419719613146",
       "cites_id": [
         "907915419719613146"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:ufrVoPGSRksC": {
       "container_type": "Publication",
@@ -114,11 +121,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:ufrVoPGSRksC",
-      "num_citations": 8,
+      "num_citations": 9,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1699726390338682729",
       "cites_id": [
         "1699726390338682729"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:Se3iqnhoufwC": {
       "container_type": "Publication",
@@ -130,11 +138,12 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:Se3iqnhoufwC",
-      "num_citations": 8,
+      "num_citations": 6,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11441897549159463537",
       "cites_id": [
         "11441897549159463537"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:eQOLeE2rZwMC": {
       "container_type": "Publication",
@@ -150,7 +159,8 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15425033792470423057",
       "cites_id": [
         "15425033792470423057"
-      ]
+      ],
+      "num_citations_source": "google_scholar"
     },
     "40KXmRMAAAAJ:WF5omc3nYNoC": {
       "container_type": "Publication",
@@ -166,7 +176,8 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11696501131044603767",
       "cites_id": [
         "11696501131044603767"
-      ]
+      ],
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:MXK_kJrjxJIC": {
       "container_type": "Publication",
@@ -178,7 +189,8 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:MXK_kJrjxJIC",
-      "num_citations": 0
+      "num_citations": 0,
+      "num_citations_source": "openalex"
     },
     "40KXmRMAAAAJ:0EnyYjriUFMC": {
       "container_type": "Publication",
@@ -190,7 +202,8 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:0EnyYjriUFMC",
-      "num_citations": 0
+      "num_citations": 0,
+      "num_citations_source": "google_scholar"
     },
     "40KXmRMAAAAJ:hqOjcs7Dif8C": {
       "container_type": "Publication",
@@ -202,7 +215,8 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:hqOjcs7Dif8C",
-      "num_citations": 0
+      "num_citations": 0,
+      "num_citations_source": "google_scholar"
     },
     "40KXmRMAAAAJ:roLk4NBRz8UC": {
       "container_type": "Publication",
@@ -214,7 +228,8 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:roLk4NBRz8UC",
-      "num_citations": 0
+      "num_citations": 0,
+      "num_citations_source": "google_scholar"
     },
     "40KXmRMAAAAJ:3fE2CSJIrl8C": {
       "container_type": "Publication",
@@ -226,21 +241,9 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:3fE2CSJIrl8C",
-      "num_citations": 0
+      "num_citations": 0,
+      "num_citations_source": "google_scholar"
     }
   },
-  "citedby5y": 164,
-  "hindex": 7,
-  "hindex5y": 7,
-  "i10index": 5,
-  "i10index5y": 5,
-  "cites_per_year": {
-    "2022": 2,
-    "2023": 9,
-    "2024": 26,
-    "2025": 49,
-    "2026": 78
-  },
-  "citation_source": "google_scholar",
-  "updated": "2026-11-06 19:18:41"
+  "updated": "2026-11-16 16:38:25"
 }
