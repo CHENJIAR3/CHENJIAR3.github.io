@@ -18,16 +18,12 @@ redirect_from:
 {% assign gs_updated = gs.updated | default: "" | slice: 0, 10 %}
 {% assign citation_label = "Google Scholar" %}
 {% assign citation_url = site.author.googlescholar %}
-{% if gs.citation_source == "openalex" %}
-  {% assign citation_label = "OpenAlex" %}
-  {% assign citation_url = "https://openalex.org/authors/orcid:" | append: gs.orcid %}
-{% endif %}
+
 
 <span class='anchor' id='about-me'></span>
 # ⏩ About me
 My name is Jiarong Chen. I am currently a Ph.D. student at Shanghai Jiao Tong University, where I am pursuing my doctoral degree under the supervision of Prof. Guoxing Wang.  I received both my Bachelor's and Master's degrees in Biomedical Engineering from Sun Yat-sen University. I was twice awarded the National Scholarship and was also recognized as an Outstanding Graduate of Sun Yat-sen University. My research focuses on wearable sensing and AI for healthcare, with particular interests in cardiovascular monitoring, photoplethysmography (PPG), electrocardiography (ECG), cuffless blood pressure estimation, and multimodal physiological signal analysis. 
 I have published my research findings in several international journals, including npj Digitial Medicine, Advanced Science, IEEE Journal of Biomedical and Health Informatics, Expert Systems With Applications, Biomedical Signal Processing and Control, Applied Soft Computing, IEEE Transactions on Instrumentation and Measurement, and npj Cardiovascular Health. Contact: jiarong.chen@sjtu.edu.cn
-<a href='{{ citation_url }}' title='{{ citation_label }} citations, updated {{ gs_updated | default: "n/a" }}'><span class="citation-badge" role="img" aria-label="{{ citation_label }} citations: {{ citations }}"><span class="citation-badge-label">{{ citation_label }} citations</span><span class="citation-badge-count">{{ citations }}</span></span></a>.
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 <strong>Soft, Multi-Wavelength Photoplethysmography Enables Reliable Neonatal Blood Pressure Monitoring via Error Stratification</strong> is accepted by Advanced Science.
