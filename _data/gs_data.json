@@ -20,7 +20,7 @@
     "Cardiovascular Health",
     "Wearable Systems"
   ],
-  "citedby": 315,
+  "citedby": 316,
   "hindex": 9,
   "i10index": 9,
   "works_count": 37,
@@ -35,7 +35,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 36,
+      "num_citations": 37,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12207803994258092743,4841201044580916214",
       "cites_id": [
         "12207803994258092743",
@@ -53,7 +53,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:UebtZRa9Y70C",
-      "num_citations": 30,
+      "num_citations": 38,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9350043175088355515",
       "cites_id": [
         "9350043175088355515"
@@ -87,7 +87,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:UeHWp8X0CEIC",
-      "num_citations": 18,
+      "num_citations": 23,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6686988275619830636",
       "cites_id": [
         "6686988275619830636"
@@ -104,7 +104,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:qjMakFHDy7sC",
-      "num_citations": 14,
+      "num_citations": 17,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=907915419719613146",
       "cites_id": [
         "907915419719613146"
@@ -138,7 +138,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:Se3iqnhoufwC",
-      "num_citations": 6,
+      "num_citations": 10,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11441897549159463537",
       "cites_id": [
         "11441897549159463537"
@@ -172,7 +172,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:WF5omc3nYNoC",
-      "num_citations": 2,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11696501131044603767",
       "cites_id": [
         "11696501131044603767"
@@ -245,5 +245,5 @@
       "num_citations_source": "google_scholar"
     }
   },
-  "updated": "2026-11-17 02:14:59"
+  "updated": "2026-11-18 01:31:44"
 }
