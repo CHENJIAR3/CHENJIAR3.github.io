@@ -20,7 +20,7 @@
     "Cardiovascular Health",
     "Wearable Systems"
   ],
-  "citedby": 316,
+  "citedby": 320,
   "hindex": 9,
   "i10index": 9,
   "works_count": 37,
@@ -138,7 +138,7 @@
       },
       "filled": false,
       "author_pub_id": "40KXmRMAAAAJ:Se3iqnhoufwC",
-      "num_citations": 10,
+      "num_citations": 11,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11441897549159463537",
       "cites_id": [
         "11441897549159463537"
@@ -245,5 +245,5 @@
       "num_citations_source": "google_scholar"
     }
   },
-  "updated": "2026-11-18 01:31:44"
+  "updated": "2026-11-22 00:00:11"
 }
